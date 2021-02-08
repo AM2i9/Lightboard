@@ -1,0 +1,30 @@
+.grid-container {
+  display: grid;
+	background-color: #000000;
+	float: right;
+  padding: 10px;
+}
+.grid-item {
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 15px;
+  text-align: center;
+	width: 20px;
+	height: 20px;
+}
+.mainFrame {
+	position: fixed;
+	margin:0px;
+	padding: 0px;
+	float:left;
+}
+
+.colorPicker {
+	padding:10px;
+}
+.buttons{
+	float:right;
+}
+.button {
+		padding:10px;
+}
